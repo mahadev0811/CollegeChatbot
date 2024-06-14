@@ -1,0 +1,41 @@
+
+Chatbot Web App
+1. Streamlit: It is a Python library that allows you to create web applications using Python. It is a great tool for data scientists and machine learning engineers to create interactive web applications. 
+   The main features of Streamlit are:
+    - Easy to use: Streamlit is very easy to use and requires minimal code to create web applications.
+    - Fast: Streamlit is fast and responsive, making it ideal for creating interactive web applications.
+    - Customizable: Streamlit allows you to customize the appearance of your web applications using CSS.
+    - Integration: Streamlit can be easily integrated with other Python libraries and frameworks.
+    - Sharing: Streamlit allows you to share your web applications with others by deploying them to the web.
+
+2. Google Generative AI: It is a collection of machine learning models developed by Google that can generate text and images. These models are trained on large datasets and can generate realistic and creative content. 
+   Currentlu, we are using their Gemini-pro model for generating text.
+
+3. Flag Embedding: It focuses on retrieval-augmented LLMs, we have used it to genearte embeddings for the given text.
+
+4. Numpy: It is a Python library that provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. It is widely used in data science and machine learning applications.
+
+5. Audio Recorder Streamlit: It is a Streamlit component that allows you to record audio in your web application. It uses the Web Audio API to capture audio from the user's microphone and save it as a WAV/MP3 file.
+
+6. Speech Recognition: It is a Python library that allows you to convert speech to text. It supports multiple speech recognition engines, including Google Speech Recognition, IBM Speech to Text, and Microsoft Bing Voice Recognition.
+
+7. JSON: It is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate. It is widely used for storing and exchanging data on the web.
+
+8. Base64: It is a binary-to-text encoding scheme that is commonly used to encode binary data, such as images or audio files, as text. It is used to convert binary data into a format that can be easily transmitted over the web.
+
+9. Pickle: It is a Python library that allows you to serialize and deserialize Python objects. It is commonly used for saving and loading machine learning models, data structures, and other objects.
+
+10. ArgumentParser: It is a Python library that allows you to parse command-line arguments in a Python script. It provides a simple and flexible way to define and parse command-line arguments.
+
+11. Datetime: It is a Python library that provides support for working with dates and times. It allows you to create, manipulate, and format dates and times in Python.
+
+12. TQDM: It is a Python library that provides a fast, extensible progress bar for loops and other iterable objects. It allows you to track the progress of your code and estimate the time remaining for long-running tasks.
+
+
+Web Scraping
+
+13. Requests: It is a Python library that allows you to send HTTP requests to web servers and receive responses. It is widely used for interacting with web APIs and scraping web pages.
+
+14. BeautifulSoup: It is a Python library that allows you to parse and extract data from HTML and XML documents. It provides a simple and flexible way to navigate and search the contents of web pages.
+
+15. URLParse: It is a Python library that allows you to parse URLs and extract information from them. It provides a convenient way to work with URLs in Python.

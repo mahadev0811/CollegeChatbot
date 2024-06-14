@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+FlagEmbedding
+numpy
+audio-recorder-streamlit
+SpeechRecognition
