@@ -94,7 +94,7 @@ To generate embeddings from your data file, use the **embedding_generator.py** s
 
 - This video shows the chatbot in action, answering questions about GAT:
 
-    ![Chatbot Demo](screenshots/recordings.mp4)
+https://github.com/mahadev0811/CollegeChatbot/assets/124283478/2845e5c3-c243-4793-a40f-b2653c23233f
 
 ## Credits
 
